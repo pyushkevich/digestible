@@ -22,6 +22,7 @@
 #include <assert.h>
 #include <cmath>
 #include <functional>
+#include <iterator>
 #include <stdexcept>
 #include <string>
 #include <vector>
